@@ -1,2 +1,2 @@
-/src/ShiftSchedule.sln
+./src/ShiftSchedule.sln
 exit
